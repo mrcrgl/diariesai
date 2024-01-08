@@ -1,0 +1,7 @@
+.idea/
+.env
+data/
+*.iml
+venv/
+insta_settings.json
+instructions.txt
